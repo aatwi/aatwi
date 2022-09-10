@@ -12,7 +12,7 @@ Software Craftsmanship Coach && Software Engineering Lead @ [Murex](https://gith
 ```json
 {
   "🔭 I’m currently working on": [
-    "Helping teams write better testable and well maintainable code"
+    "Helping teams write better, testable, and well maintainable code."
   ],
   "🌱 I’m currently learning": [
     ""
