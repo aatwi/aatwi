@@ -12,11 +12,11 @@ Software Craftsmanship Coach && Software Engineering Lead @ [Murex](https://gith
 ```json
 {
   "🔭 I’m currently working on": [
-    "Helping teams write better, testable, and well maintainable code."
+    "Helping teams write better, testable, and well maintainable code"
   ],
   "🌱 I’m currently learning": [
-    "Go Programming Language.",
-    "Facilitation coaching sessions using Liberating Structures."
+    "Go Programming Language",
+    "Facilitating coaching sessions using Liberating Structures"
   ],
   "⌨ Programming Languages": [
     "Java",
